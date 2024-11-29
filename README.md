@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on a jeopardy like web application backend<br>🌱 I'm currently learning Backend-Engineering<br>🤝 I'm always open to collaborate to learn new things<br>
+🔭 I'm currently working on the backend of a Jeopardy-like web application<br>🌱 I'm currently learning Backend-Engineering<br>🤝 I'm always open to collaborate to learn new things<br>
 
 
 ## 🌐 Socials:
